@@ -24,45 +24,43 @@ Certified in **Generative AI**, **Cloud Computing**, and **Cybersecurity**, I be
 
 ## 🛠 Tech Stack
 
-<div align="center">
-
 <!-- Languages -->
-<a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/></a>
-<a href="https://www.w3schools.com/c/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++"/></a>
-<a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/></a>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
+</p>
 
-<br><br>
-
-<!-- Web & Frameworks -->
-<a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="Flask"/></a>
-
-<br><br>
+<!-- Web Frameworks -->
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/material-outlined/48/000000/django.png" alt="Django"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/flask.png" alt="Flask"/>
+</p>
 
 <!-- Blockchain -->
-<a href="https://soliditylang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="50" alt="Solidity"/></a>
-<a href="https://web3js.readthedocs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Web3_logo.png" height="50" alt="Web3.js"/></a>
-<a href="https://trufflesuite.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/2222118?s=200&v=4" height="50" alt="Truffle"/></a>
-<a href="https://trufflesuite.com/ganache/" target="_blank"><img src="https://avatars.githubusercontent.com/u/34691461?s=200&v=4" height="50" alt="Ganache"/></a>
-<a href="https://ipfs.tech/" target="_blank"><img src="https://user-images.githubusercontent.com/109229406/210191034-e171251c-f4d5-45a2-a6fd-b7e295e38ff5.png" height="50" alt="IPFS"/></a>
+<p align="left">
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Solidity" height="40"/>
+  <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B23-seeklogo.com.png" alt="Web3.js" height="40"/>
+  <img src="https://ipfs.tech/_next/image?url=%2Fipfs-logo.svg&w=256&q=75" alt="IPFS" height="40"/>
+</p>
 
-<br><br>
+<!-- Tools & DevOps -->
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+</p>
 
-<!-- Tools -->
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" alt="AWS"/></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="GCP"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" alt="Postman"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase"/></a>
 
-</div>
 
 ---
 
