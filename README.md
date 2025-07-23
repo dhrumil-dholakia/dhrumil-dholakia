@@ -1,4 +1,4 @@
--<h1 align="center">Hey there! 👋 I'm Dhrumil Dholakia 🚀</h1>
+<h1 align="center">Hey there! 👋 I'm Dhrumil Dholakia 🚀</h1>
 <p align="center">Tech Enthusiast | Software Developer | Strategic Leader</p>
 
 ---
@@ -43,9 +43,9 @@ Certified in **Generative AI**, **Cloud Computing**, and **Cybersecurity**, I be
 
 ### 🔐 Blockchain  
 <a href="https://soliditylang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="30"/> Solidity</a> &nbsp;&nbsp;
-<a href="https://trufflesuite.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/2222118?s=200&v=4" width="30"/> Truffle</a> &nbsp;&nbsp;
-<a href="https://trufflesuite.com/ganache/" target="_blank"><img src="https://avatars.githubusercontent.com/u/34691461?s=200&v=4" width="30"/> Ganache</a> &nbsp;&nbsp;
-<a href="https://ipfs.tech/" target="_blank"><img src="https://ipfs.tech/ipfs-og.png" width="30"/> IPFS</a>
+<a href="https://trufflesuite.com/" target="_blank"><img src="https://seeklogo.com/images/T/truffle-logo-426732C695-seeklogo.com.png" width="30"/> Truffle</a> &nbsp;&nbsp;
+<a href="https://trufflesuite.com/ganache/" target="_blank"><img src="https://seeklogo.com/images/G/ganache-logo-1EB72084BD-seeklogo.com.png" width="30"/> Ganache</a> &nbsp;&nbsp;
+<a href="https://ipfs.tech/" target="_blank"><img src="https://seeklogo.com/images/I/ipfs-logo-476508C555-seeklogo.com.png" width="30"/> IPFS</a>
 
 ---
 
@@ -59,28 +59,23 @@ Certified in **Generative AI**, **Cloud Computing**, and **Cybersecurity**, I be
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> MySQL</a> &nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB</a>
 
-
-
-
-
-
 ---
 
 ## 🚀 Projects
 
-### 🔐 Online Voting System
+### 🔐 Online Voting System  
 A secure, efficient, and user-friendly digital election platform with facial recognition for identity verification.  
 - Eliminates reliance on physical polling booths  
 - Ensures voter anonymity and accurate result tallying  
 - Adds an extra layer of authentication, reducing impersonation risks  
 
-### 💼 Freelancing Platform
+### 💼 Freelancing Platform  
 Built a complete freelancing marketplace connecting professionals with clients across various industries.  
 - Features project tracking, secure payments, and real-time chat  
 - Enhances remote collaboration with a unified, intuitive interface  
 - Focused on seamless transactions and user satisfaction  
 
-### 🔗 Decentralized Portfolio (DApp)
+### 🔗 Decentralized Portfolio (DApp)  
 A censorship-resistant Ethereum-based DApp that allows users to create and showcase their achievements securely.  
 - Utilizes smart contracts for transparent, tamper-proof records  
 - Empowers users to manage digital portfolios independently  
