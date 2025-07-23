@@ -25,15 +25,22 @@ Certified in **Generative AI**, **Cloud Computing**, and **Cybersecurity**, I be
 ## 🛠 Tech Stack
 
 ### 🔹 Languages  
-<a href="https://isocpp.org/" target="_blank">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> C
-</a> / 
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> C++
 </a> &nbsp;&nbsp;
+
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> Java
+</a> &nbsp;&nbsp;
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python
+</a> &nbsp;&nbsp;
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript
 </a>
+
 
 ---
 
