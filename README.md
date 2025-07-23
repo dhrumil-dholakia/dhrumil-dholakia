@@ -25,47 +25,45 @@ Certified in **Generative AI**, **Cloud Computing**, and **Cybersecurity**, I be
 ## 🛠 Tech Stack
 
 ### 🔹 Languages  
-<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python</a> &nbsp;&nbsp;
-<a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> C</a> / <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> C++</a> &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> C /  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> C++ &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript
 
 ---
 
 ### 🌐 Web & App Development  
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML</a> &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> CSS</a> &nbsp;&nbsp;
-<a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> React</a> &nbsp;&nbsp;
-<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> Node.js</a> &nbsp;&nbsp;
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"/> Django</a> &nbsp;&nbsp;
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30"/> Flask</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> CSS &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> React &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> Node.js &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"/> Django &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30"/> Flask
 
 ---
 
 ### 🔐 Blockchain  
-<a href="https://soliditylang.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="30" alt="Solidity"/> Solidity
-</a> &nbsp;&nbsp;
-<a href="https://trufflesuite.com/" target="_blank">
-  <img src="https://seeklogo.com/images/T/truffle-logo-426732C695-seeklogo.com.svg" width="30" alt="Truffle"/> Truffle
-</a> &nbsp;&nbsp;
-<a href="https://trufflesuite.com/ganache/" target="_blank">
-  <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084BD-seeklogo.com.svg" width="30" alt="Ganache"/> Ganache
-</a> &nbsp;&nbsp;
-<a href="https://ipfs.tech/" target="_blank">
-  <img src="https://seeklogo.com/images/I/ipfs-logo-476508C555-seeklogo.com.svg" width="30" alt="IPFS"/> IPFS
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="30"/> Solidity &nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/dhrumildholakia/public-assets/main/logos/truffle.png" width="30"/> Truffle &nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/dhrumildholakia/public-assets/main/logos/ganache.png" width="30"/> Ganache &nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/dhrumildholakia/public-assets/main/logos/ipfs.png" width="30"/> IPFS
 
 ---
 
 ### ⚙️ Tools & Platforms  
-<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git</a> &nbsp;&nbsp;
-<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub</a> &nbsp;&nbsp;
-<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/> Postman</a> &nbsp;&nbsp;
-<a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30"/> Firebase</a> &nbsp;&nbsp;
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/lobehub/icons/icons/aws-brand-color.svg" width="30"/> AWS</a> &nbsp;&nbsp;
-<a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30"/> GCP</a> &nbsp;&nbsp;
-<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> MySQL</a> &nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/> Postman &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30"/> Firebase &nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/dhrumildholakia/public-assets/main/logos/aws.png" width="30"/> AWS &nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30"/> GCP &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> MySQL &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB
 
 ---
 
