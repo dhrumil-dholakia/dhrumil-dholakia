@@ -63,15 +63,19 @@ Certified in **Generative AI**, **Cloud Computing**, and **Cybersecurity**, I be
 <a href="https://soliditylang.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="30"/> Solidity
 </a> &nbsp;&nbsp;
+
 <a href="https://trufflesuite.com/" target="_blank">
-  <img src="https://seeklogo.com/images/T/truffle-logo-426732CF1E-seeklogo.com.png" width="30"/> Truffle
+  <img src="https://raw.githubusercontent.com/trufflesuite/artwork/master/logo/truffle-logo-dark.svg" width="30"/> Truffle
 </a> &nbsp;&nbsp;
+
 <a href="https://trufflesuite.com/ganache/" target="_blank">
   <img src="https://raw.githubusercontent.com/trufflesuite/ganache/develop/assets/logo.png" width="30"/> Ganache
 </a> &nbsp;&nbsp;
+
 <a href="https://ipfs.tech/" target="_blank">
-  <img src="https://raw.githubusercontent.com/ipfs/logo/master/ipfs-logo.svg" width="30"/> IPFS
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Ipfs-logo-1024-ice-text.png" width="30"/> IPFS
 </a>
+
 
 ---
 
