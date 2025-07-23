@@ -67,10 +67,10 @@ Certified in **Generative AI**, **Cloud Computing**, and **Cybersecurity**, I be
   <img src="https://seeklogo.com/images/T/truffle-logo-426732CF1E-seeklogo.com.png" width="30"/> Truffle
 </a> &nbsp;&nbsp;
 <a href="https://trufflesuite.com/ganache/" target="_blank">
-  <img src="https://logowik.com/content/uploads/images/ganache-blockchain5516.logowik.com.webp" width="30"/> Ganache
+  <img src="https://seeklogo.com/images/426724/ganache-logo-png-vector.png" width="30"/> Ganache
 </a> &nbsp;&nbsp;
 <a href="https://ipfs.tech/" target="_blank">
-  <img src="https://seeklogo.com/images/I/ipfs-logo-447E0F5B0D-seeklogo.com.png" width="30"/> IPFS
+  <img src="https://assets.streamlinehq.com/image/private/w_30,h_30/42/9c78z4adf2hrkjr8rxubj.png" width="30"/> IPFS
 </a>
 
 ---
@@ -89,7 +89,7 @@ Certified in **Generative AI**, **Cloud Computing**, and **Cybersecurity**, I be
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30"/> Firebase
 </a> &nbsp;&nbsp;
 <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-zx6e47l9.png" width="30"/> AWS
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/AWS_Simple_Icons_AWS_Cloud.svg" width="30"/> AWS
 </a> &nbsp;&nbsp;
 <a href="https://cloud.google.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30"/> GCP
