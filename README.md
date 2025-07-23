@@ -42,10 +42,18 @@ Certified in **Generative AI**, **Cloud Computing**, and **Cybersecurity**, I be
 ---
 
 ### 🔐 Blockchain  
-<a href="https://soliditylang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="30"/> Solidity</a> &nbsp;&nbsp;
-<a href="https://trufflesuite.com/" target="_blank"><img src="https://seeklogo.com/images/T/truffle-logo-426732C695-seeklogo.com.png" width="30"/> Truffle</a> &nbsp;&nbsp;
-<a href="https://trufflesuite.com/ganache/" target="_blank"><img src="https://seeklogo.com/images/G/ganache-logo-1EB72084BD-seeklogo.com.png" width="30"/> Ganache</a> &nbsp;&nbsp;
-<a href="https://ipfs.tech/" target="_blank"><img src="https://seeklogo.com/images/I/ipfs-logo-476508C555-seeklogo.com.png" width="30"/> IPFS</a>
+<a href="https://soliditylang.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="30" alt="Solidity"/> Solidity
+</a> &nbsp;&nbsp;
+<a href="https://trufflesuite.com/" target="_blank">
+  <img src="https://seeklogo.com/images/T/truffle-logo-426732C695-seeklogo.com.svg" width="30" alt="Truffle"/> Truffle
+</a> &nbsp;&nbsp;
+<a href="https://trufflesuite.com/ganache/" target="_blank">
+  <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084BD-seeklogo.com.svg" width="30" alt="Ganache"/> Ganache
+</a> &nbsp;&nbsp;
+<a href="https://ipfs.tech/" target="_blank">
+  <img src="https://seeklogo.com/images/I/ipfs-logo-476508C555-seeklogo.com.svg" width="30" alt="IPFS"/> IPFS
+</a>
 
 ---
 
@@ -54,7 +62,7 @@ Certified in **Generative AI**, **Cloud Computing**, and **Cybersecurity**, I be
 <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub</a> &nbsp;&nbsp;
 <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/> Postman</a> &nbsp;&nbsp;
 <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30"/> Firebase</a> &nbsp;&nbsp;
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/> AWS</a> &nbsp;&nbsp;
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/lobehub/icons/icons/aws-brand-color.svg" width="30"/> AWS</a> &nbsp;&nbsp;
 <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30"/> GCP</a> &nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> MySQL</a> &nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB</a>
