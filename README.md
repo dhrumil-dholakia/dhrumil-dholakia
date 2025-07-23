@@ -26,44 +26,45 @@ Certified in **Generative AI**, **Cloud Computing**, and **Cybersecurity**, I be
 
 <div align="center">
 
-<!-- 1️⃣ Programming Languages -->
-<a href="https://www.w3schools.com/c/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/></a>
-<a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/></a>
+### 🔹 Programming Languages
+<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/></a><br><sub>C</sub>  
+<a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/></a><br><sub>C++</sub>  
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></a><br><sub>Java</sub>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></a><br><sub>JavaScript</sub>  
 
 <br><br>
 
-<!-- 2️⃣ Web Development -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" alt="Django"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" alt="Flask"/></a>
+### 🌐 Web Development
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></a><br><sub>HTML</sub>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a><br><sub>CSS</sub>  
+<a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></a><br><sub>React</sub>  
+<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/></a><br><sub>Node.js</sub>  
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/></a><br><sub>Django</sub>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/></a><br><sub>Flask</sub>  
 
 <br><br>
 
-<!-- 3️⃣ Blockchain Development -->
-<a href="https://soliditylang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50" alt="Solidity"/></a>
-<a href="https://web3js.readthedocs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Web3_logo.png" width="50" alt="Web3.js"/></a>
-<a href="https://trufflesuite.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/2222118?s=200&v=4" width="50" alt="Truffle"/></a>
-<a href="https://trufflesuite.com/ganache/" target="_blank"><img src="https://avatars.githubusercontent.com/u/34691461?s=200&v=4" width="50" alt="Ganache"/></a>
-<a href="https://ipfs.tech/" target="_blank"><img src="https://user-images.githubusercontent.com/109229406/210191034-e171251c-f4d5-45a2-a6fd-b7e295e38ff5.png" width="50" alt="IPFS"/></a>
+### 🔐 Blockchain Tools
+<a href="https://soliditylang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40"/></a><br><sub>Solidity</sub>  
+<a href="https://web3js.readthedocs.io/" target="_blank"><img src="https://seeklogo.com/images/W/web3-logo-4801c6ec5ef6ae5c7d231552bc28e0c9.png" width="40"/></a><br><sub>Web3.js</sub>  
+<a href="https://trufflesuite.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/2222118?s=200&v=4" width="40"/></a><br><sub>Truffle</sub>  
+<a href="https://trufflesuite.com/ganache/" target="_blank"><img src="https://avatars.githubusercontent.com/u/34691461?s=200&v=4" width="40"/></a><br><sub>Ganache</sub>  
+<a href="https://ipfs.tech/" target="_blank"><img src="https://ipfs.tech/_next/static/media/ipfs-logo.2e3cf5d4.svg" width="40"/></a><br><sub>IPFS</sub>  
 
 <br><br>
 
-<!-- 4️⃣ Tools & Platforms -->
-<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase"/></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" alt="AWS"/></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" alt="GCP"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/></a>
+### ⚙️ Tools & Platforms
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></a><br><sub>Git</sub>  
+<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a><br><sub>GitHub</sub>  
+<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a><br><sub>Postman</sub>  
+<a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/></a><br><sub>Firebase</sub>  
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/></a><br><sub>AWS</sub>  
+<a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/></a><br><sub>GCP</sub>  
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></a><br><sub>MySQL</sub>  
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/></a><br><sub>MongoDB</sub>  
 
 </div>
+
 
 
 
