@@ -96,11 +96,12 @@ Certified in **Generative AI**, **Cloud Computing**, and **Cybersecurity**, I be
 
 ## 🚀 Projects
 
-### 🔐 Online Voting System
-A secure, efficient, and user-friendly digital election platform with facial recognition for identity verification.  
+### ​ [Online Voting System](https://github.com/dhrumil-dholakia/Online-Voting-System)
+A secure, efficient, and user-friendly digital election platform with facial recognition for identity verification.
+
 - Eliminates reliance on physical polling booths  
 - Ensures voter anonymity and accurate result tallying  
-- Adds an extra layer of authentication, reducing impersonation risks  
+- Adds extra authentication to reduce impersonation risks  
 
 ### 💼 Freelancing Platform
 Built a complete freelancing marketplace connecting professionals with clients across various industries.  
@@ -108,11 +109,12 @@ Built a complete freelancing marketplace connecting professionals with clients a
 - Enhances remote collaboration with a unified, intuitive interface  
 - Focused on seamless transactions and user satisfaction  
 
-### 🔗 Decentralized Portfolio (DApp)
-A censorship-resistant Ethereum-based DApp that allows users to create and showcase their achievements securely.  
-- Utilizes smart contracts for transparent, tamper-proof records  
-- Empowers users to manage digital portfolios independently  
-- Ideal for long-term credibility in professional profiles  
+### ​ [Decentralized Portfolio (DApp)](https://github.com/dhrumil-dholakia/Decentralize-Portfolio)
+A censorship-resistant Ethereum-based DApp that enables users to create and showcase their achievements securely.
+
+- Built with Solidity and smart contracts for tamper-proof portfolios  
+- Employs IPFS & Web3 for decentralized media storage and blockchain interaction  
+- Great for long-term professional credibility
 
 ---
 
